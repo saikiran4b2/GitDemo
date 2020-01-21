@@ -33,6 +33,15 @@ public class HELLO {
 		System.out.println("login3");
 
 	}
+	public void login3()
+	{
+		System.out.println("login1");
+		System.out.println("login2");
+		System.out.println("login3");
+		System.out.println("login4");
 
+
+	}
+	
 }
 	
