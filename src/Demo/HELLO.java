@@ -20,6 +20,19 @@ public class HELLO {
 		System.out.println("fifth");
 		System.out.println("sixth");
 	}
+	
+	public void login()
+	{
+		System.out.println("login1");
+		System.out.println("login2");
+	}
+	public void login2()
+	{
+		System.out.println("login1");
+		System.out.println("login2");
+		System.out.println("login3");
+
+	}
 
 }
 	
